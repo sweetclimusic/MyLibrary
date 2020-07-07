@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  BoolInitTestCase.swift
 //
 //
 //  Created by Ashlee on 07/07/2020.
